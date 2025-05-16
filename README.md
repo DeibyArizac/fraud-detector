@@ -48,7 +48,7 @@ fraud-detector/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/deibyariza/fraud-detector.git
+git clone https://github.com/DeibyArizac/fraud-detector.git
 cd fraud-detector
 ```
 
@@ -147,7 +147,7 @@ jupyter notebook notebooks/metrics.ipynb
 ## Author
 
 **Deiby Ariza**
-- GitHub: [@deibyariza](https://github.com/deibyariza)
+- GitHub: [@DeibyArizac](https://github.com/DeibyArizac)
 - Portfolio Project
 - Built in 2025
 
