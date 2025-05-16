@@ -17,10 +17,9 @@ app = FastAPI(
     This system uses an optimized XGBoost model to detect fraud patterns
     in real-time, achieving over 99% accuracy.
     """,
-    version="1.0.0",
-    contact={
+    version="1.0.0",    contact={
         "name": "Deiby Ariza",
-        "url": "https://github.com/deibyariza",
+        "url": "https://github.com/DeibyArizaC",
         "email": "deibyariza@example.com"  # Replace with your actual email
     }
 )
