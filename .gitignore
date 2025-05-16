@@ -38,6 +38,23 @@ env/
 data/raw/*.csv
 models/*.pkl
 *.log
+.env
+.DS_Store
+
+# IDE specific
+.idea/
+.vscode/
+*.code-workspace
+
+# Python cache
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+dist/
+build/
+*.egg-info/
 
 # OS specific
 .DS_Store
